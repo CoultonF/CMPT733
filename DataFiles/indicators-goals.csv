@@ -1,0 +1,360 @@
+Target,Indicator,Goal
+1.1,SI.POV.DDAY,No Poverty
+1.2,SI.POV.NHAC,No Poverty
+1.2,SI.POV.RUHC,No Poverty
+1.2,SI.POV.URHC,No Poverty
+1.3,per_si_allsi.cov_pop_tot,No Poverty
+1.3,per_si_allsi.cov_q2_tot,No Poverty
+1.3,per_si_allsi.cov_q3_tot,No Poverty
+1.3,per_si_allsi.cov_q4_tot,No Poverty
+1.3,per_si_allsi.cov_q1_tot,No Poverty
+1.3,per_si_allsi.cov_q5_tot,No Poverty
+1.3,per_sa_allsa.cov_pop_tot,No Poverty
+1.3,per_sa_allsa.cov_q2_tot,No Poverty
+1.3,per_sa_allsa.cov_q3_tot,No Poverty
+1.3,per_sa_allsa.cov_q4_tot,No Poverty
+1.3,per_sa_allsa.cov_q1_tot,No Poverty
+1.3,per_sa_allsa.cov_q5_tot,No Poverty
+1.3,per_lm_alllm.cov_pop_tot,No Poverty
+1.3,per_lm_alllm.cov_q2_tot,No Poverty
+1.3,per_lm_alllm.cov_q3_tot,No Poverty
+1.3,per_lm_alllm.cov_q4_tot,No Poverty
+1.3,per_lm_alllm.cov_q1_tot,No Poverty
+1.3,per_lm_alllm.cov_q5_tot,No Poverty
+2.1,SH.STA.BFED.ZS,Zero Hunger
+2.1,SN.ITK.DEFC.ZS,Zero Hunger
+2.2,SH.ANM.ALLW.ZS,Zero Hunger
+2.2,SH.STA.OWGH.ZS,Zero Hunger
+2.2,SH.STA.OWGH.FE.ZS,Zero Hunger
+2.2,SH.STA.OWGH.MA.ZS,Zero Hunger
+2.2,SH.SVR.WAST.ZS,Zero Hunger
+2.2,SH.SVR.WAST.FE.ZS,Zero Hunger
+2.2,SH.SVR.WAST.MA.ZS,Zero Hunger
+2.2,SH.STA.STNT.ZS,Zero Hunger
+2.2,SH.STA.STNT.FE.ZS,Zero Hunger
+2.2,SH.STA.STNT.MA.ZS,Zero Hunger
+2.2,SH.STA.MALN.ZS,Zero Hunger
+2.2,SH.STA.MALN.FE.ZS,Zero Hunger
+2.2,SH.STA.MALN.MA.ZS,Zero Hunger
+2.2,SH.STA.WAST.ZS,Zero Hunger
+2.2,SH.STA.WAST.FE.ZS,Zero Hunger
+2.2,SH.STA.WAST.MA.ZS,Zero Hunger
+2.3,AG.YLD.CREL.KG,Zero Hunger
+3.1,SH.STA.BRTC.ZS,Good Health and Well-being
+3.1,SH.STA.MMRT,Good Health and Well-being
+3.2,SH.DYN.NMRT,Good Health and Well-being
+3.2,SH.DYN.MORT,Good Health and Well-being
+3.2,SH.DYN.MORT.FE,Good Health and Well-being
+3.2,SH.DYN.MORT.MA,Good Health and Well-being
+3.3,SH.IMM.HEPB,Good Health and Well-being
+3.3,SH.HIV.INCD.ZS,Good Health and Well-being
+3.3,SH.MLR.INCD.P3,Good Health and Well-being
+3.3,SH.TBS.INCD,Good Health and Well-being
+3.3,SH.HIV.1524.FE.ZS,Good Health and Well-being
+3.3,SH.HIV.1524.MA.ZS,Good Health and Well-being
+3.3,SH.DYN.AIDS.ZS,Good Health and Well-being
+3.4,SH.DYN.NCOM.ZS,Good Health and Well-being
+3.4,SH.DYN.NCOM.FE.ZS,Good Health and Well-being
+3.4,SH.DYN.NCOM.MA.ZS,Good Health and Well-being
+3.4,SH.STA.SUIC.P5,Good Health and Well-being
+3.4,SH.STA.SUIC.FE.P5,Good Health and Well-being
+3.4,SH.STA.SUIC.MA.P5,Good Health and Well-being
+3.5,SH.ALC.PCAP.LI,Good Health and Well-being
+3.5,SH.ALC.PCAP.FE.LI,Good Health and Well-being
+3.5,SH.ALC.PCAP.MA.LI,Good Health and Well-being
+3.6,SH.STA.TRAF.P5,Good Health and Well-being
+3.7,SP.ADO.TFRT,Good Health and Well-being
+3.7,SH.FPL.SATM.ZS,Good Health and Well-being
+3.8,SH.IMM.IDPT,Good Health and Well-being
+3.8,SH.IMM.MEAS,Good Health and Well-being
+3.8,SH.UHC.OOPC.10.TO,Good Health and Well-being
+3.8,SH.UHC.OOPC.25.TO,Good Health and Well-being
+3.8,SH.UHC.OOPC.10.ZS,Good Health and Well-being
+3.8,SH.UHC.OOPC.25.ZS,Good Health and Well-being
+3.9,SH.STA.AIRP.P5,Good Health and Well-being
+3.9,SH.STA.AIRP.FE.P5,Good Health and Well-being
+3.9,SH.STA.AIRP.MA.P5,Good Health and Well-being
+3.9,SH.STA.POIS.P5,Good Health and Well-being
+3.9,SH.STA.POIS.P5.FE,Good Health and Well-being
+3.9,SH.STA.POIS.P5.MA,Good Health and Well-being
+3.9,SH.STA.WASH.P5,Good Health and Well-being
+3.a,SH.PRV.SMOK.FE,Good Health and Well-being
+3.a,SH.PRV.SMOK.MA,Good Health and Well-being
+3.c,SH.MED.NUMW.P3,Good Health and Well-being
+3.c,SH.MED.PHYS.ZS,Good Health and Well-being
+4.1,SE.SEC.UNER.LO.ZS,Quality Education
+4.1,SE.SEC.UNER.LO.FE.ZS,Quality Education
+4.1,SE.SEC.UNER.LO.MA.ZS,Quality Education
+4.1,SE.PRM.UNER.ZS,Quality Education
+4.1,SE.PRM.UNER.FE.ZS,Quality Education
+4.1,SE.PRM.UNER.MA.ZS,Quality Education
+4.1,SE.PRM.UNER,Quality Education
+4.1,SE.PRM.UNER.FE,Quality Education
+4.1,SE.PRM.UNER.MA,Quality Education
+4.1,SE.COM.DURS,Quality Education
+4.1,SE.SEC.CMPT.LO.FE.ZS,Quality Education
+4.1,SE.SEC.CMPT.LO.MA.ZS,Quality Education
+4.1,SE.SEC.CMPT.LO.ZS,Quality Education
+4.1,SE.PRM.OENR.ZS,Quality Education
+4.1,SE.PRM.OENR.FE.ZS,Quality Education
+4.1,SE.PRM.OENR.MA.ZS,Quality Education
+4.1,SE.PRM.CMPT.FE.ZS,Quality Education
+4.1,SE.PRM.CMPT.MA.ZS,Quality Education
+4.1,SE.PRM.CMPT.ZS,Quality Education
+4.1,SE.PRM.DURS,Quality Education
+4.1,SE.SEC.DURS,Quality Education
+4.2,SE.PRE.DURS,Quality Education
+4.2,SE.PRE.ENRR,Quality Education
+4.2,SE.PRE.ENRR.FE,Quality Education
+4.2,SE.PRE.ENRR.MA,Quality Education
+4.3,SE.TER.ENRR,Quality Education
+4.3,SE.TER.ENRR.FE,Quality Education
+4.3,SE.TER.ENRR.MA,Quality Education
+4.4,SE.TER.CUAT.BA.FE.ZS,Quality Education
+4.4,SE.TER.CUAT.BA.MA.ZS,Quality Education
+4.4,SE.TER.CUAT.BA.ZS,Quality Education
+4.4,SE.SEC.CUAT.LO.FE.ZS,Quality Education
+4.4,SE.SEC.CUAT.LO.MA.ZS,Quality Education
+4.4,SE.SEC.CUAT.LO.ZS,Quality Education
+4.4,SE.SEC.CUAT.PO.FE.ZS,Quality Education
+4.4,SE.SEC.CUAT.PO.MA.ZS,Quality Education
+4.4,SE.SEC.CUAT.PO.ZS,Quality Education
+4.4,SE.PRM.CUAT.MA.ZS,Quality Education
+4.4,SE.TER.CUAT.ST.FE.ZS,Quality Education
+4.4,SE.TER.CUAT.ST.MA.ZS,Quality Education
+4.4,SE.TER.CUAT.ST.ZS,Quality Education
+4.4,SE.SEC.CUAT.UP.FE.ZS,Quality Education
+4.4,SE.SEC.CUAT.UP.MA.ZS,Quality Education
+4.4,SE.SEC.CUAT.UP.ZS,Quality Education
+4.4,SE.TER.CUAT.MS.FE.ZS,Quality Education
+4.4,SE.TER.CUAT.MS.MA.ZS,Quality Education
+4.4,SE.TER.CUAT.MS.ZS,Quality Education
+4.4,SE.TER.CUAT.DO.FE.ZS,Quality Education
+4.4,SE.TER.CUAT.DO.MA.ZS,Quality Education
+4.4,SE.TER.CUAT.DO.ZS,Quality Education
+4.5,SE.ENR.PRIM.FM.ZS,Quality Education
+4.5,SE.ENR.PRSC.FM.ZS,Quality Education
+4.5,SE.ENR.SECO.FM.ZS,Quality Education
+4.5,SE.ENR.TERT.FM.ZS,Quality Education
+4.6,SE.ADT.LITR.FE.ZS,Quality Education
+4.6,SE.ADT.LITR.MA.ZS,Quality Education
+4.6,SE.ADT.LITR.ZS,Quality Education
+4.6,SE.ADT.1524.LT.FM.ZS,Quality Education
+4.6,SE.ADT.1524.LT.FE.ZS,Quality Education
+4.6,SE.ADT.1524.LT.MA.ZS,Quality Education
+4.6,SE.ADT.1524.LT.ZS,Quality Education
+4.c,SE.SEC.ENRL.LO.TC.ZS,Quality Education
+4.c,SE.PRE.ENRL.TC.ZS,Quality Education
+4.c,SE.PRM.ENRL.TC.ZS,Quality Education
+4.c,SE.SEC.ENRL.TC.ZS,Quality Education
+4.c,SE.TER.ENRL.TC.ZS,Quality Education
+4.c,SE.SEC.ENRL.UP.TC.ZS,Quality Education
+4.c,SE.SEC.TCAQ.LO.ZS,Quality Education
+4.c,SE.SEC.TCAQ.LO.FE.ZS,Quality Education
+4.c,SE.SEC.TCAQ.LO.MA.ZS,Quality Education
+4.c,SE.PRE.TCAQ.ZS,Quality Education
+4.c,SE.PRE.TCAQ.FE.ZS,Quality Education
+4.c,SE.PRE.TCAQ.MA.ZS,Quality Education
+4.c,SE.PRM.TCAQ.ZS,Quality Education
+4.c,SE.PRM.TCAQ.FE.ZS,Quality Education
+4.c,SE.PRM.TCAQ.MA.ZS,Quality Education
+4.c,SE.SEC.TCAQ.ZS,Quality Education
+4.c,SE.SEC.TCAQ.FE.ZS,Quality Education
+4.c,SE.SEC.TCAQ.MA.ZS,Quality Education
+4.c,SE.SEC.TCAQ.UP.ZS,Quality Education
+4.c,SE.SEC.TCAQ.UP.FE.ZS,Quality Education
+4.c,SE.SEC.TCAQ.UP.MA.ZS,Quality Education
+5.2,SG.VAW.1549.ZS,Gender Equality
+5.3,SH.STA.FGMS.ZS,Gender Equality
+5.3,SP.M15.2024.FE.ZS,Gender Equality
+5.3,SP.M18.2024.FE.ZS,Gender Equality
+5.4,SL.FAM.WORK.FE.ZS,Gender Equality
+5.4,SL.FAM.WORK.MA.ZS,Gender Equality
+5.4,SG.TIM.UWRK.FE,Gender Equality
+5.4,SG.TIM.UWRK.MA,Gender Equality
+5.5,SL.EMP.SMGT.FE.ZS,Gender Equality
+5.5,IC.FRM.FEMO.ZS,Gender Equality
+5.5,IC.FRM.FEMM.ZS,Gender Equality
+5.5,SG.GEN.PARL.ZS,Gender Equality
+5.6,SG.DMK.SRCR.FN.ZS,Gender Equality
+6.1,SH.H2O.BASW.ZS,Clean Water and Sanitation
+6.1,SH.H2O.BASW.RU.ZS,Clean Water and Sanitation
+6.1,SH.H2O.BASW.UR.ZS,Clean Water and Sanitation
+6.1,SH.H2O.SMDW.ZS,Clean Water and Sanitation
+6.1,SH.H2O.SMDW.RU.ZS,Clean Water and Sanitation
+6.1,SH.H2O.SMDW.UR.ZS,Clean Water and Sanitation
+6.2,SH.STA.ODFC.ZS,Clean Water and Sanitation
+6.2,SH.STA.ODFC.RU.ZS,Clean Water and Sanitation
+6.2,SH.STA.ODFC.UR.ZS,Clean Water and Sanitation
+6.2,SH.STA.BASS.ZS,Clean Water and Sanitation
+6.2,SH.STA.BASS.RU.ZS,Clean Water and Sanitation
+6.2,SH.STA.BASS.UR.ZS,Clean Water and Sanitation
+6.2,SH.STA.SMSS.ZS,Clean Water and Sanitation
+6.2,SH.STA.SMSS.RU.ZS,Clean Water and Sanitation
+6.2,SH.STA.SMSS.UR.ZS,Clean Water and Sanitation
+6.2,SH.STA.HYGN.ZS,Clean Water and Sanitation
+6.2,SH.STA.HYGN.RU.ZS,Clean Water and Sanitation
+6.2,SH.STA.HYGN.UR.ZS,Clean Water and Sanitation
+6.4,ER.H2O.FWAG.ZS,Clean Water and Sanitation
+6.4,ER.H2O.FWDM.ZS,Clean Water and Sanitation
+6.4,ER.H2O.FWIN.ZS,Clean Water and Sanitation
+6.4,ER.H2O.FWTL.ZS,Clean Water and Sanitation
+6.4,ER.H2O.FWTL.K3,Clean Water and Sanitation
+6.4,ER.H2O.FWST.ZS,Clean Water and Sanitation
+6.4,ER.H2O.INTR.PC,Clean Water and Sanitation
+6.4,ER.H2O.INTR.K3,Clean Water and Sanitation
+6.4,ER.GDP.FWTL.M3.KD,Clean Water and Sanitation
+7.1,EG.CFT.ACCS.ZS,Affordable and Clean Energy
+7.1,EG.ELC.ACCS.ZS,Affordable and Clean Energy
+7.1,EG.ELC.ACCS.RU.ZS,Affordable and Clean Energy
+7.1,EG.ELC.ACCS.UR.ZS,Affordable and Clean Energy
+7.2,EG.ELC.RNEW.ZS,Affordable and Clean Energy
+7.2,EG.FEC.RNEW.ZS,Affordable and Clean Energy
+7.3,EG.EGY.PRIM.PP.KD,Affordable and Clean Energy
+8.1,NY.GDP.MKTP.KD.ZG,Decent Work and Economic Growth
+8.1,NY.GDP.PCAP.KD.ZG,Decent Work and Economic Growth
+8.2,NV.AGR.EMPL.KD,Decent Work and Economic Growth
+8.2,SL.AGR.EMPL.ZS,Decent Work and Economic Growth
+8.2,SL.AGR.EMPL.FE.ZS,Decent Work and Economic Growth
+8.2,SL.AGR.EMPL.MA.ZS,Decent Work and Economic Growth
+8.2,SL.IND.EMPL.ZS,Decent Work and Economic Growth
+8.2,SL.IND.EMPL.FE.ZS,Decent Work and Economic Growth
+8.2,SL.IND.EMPL.MA.ZS,Decent Work and Economic Growth
+8.2,SL.SRV.EMPL.ZS,Decent Work and Economic Growth
+8.2,SL.SRV.EMPL.FE.ZS,Decent Work and Economic Growth
+8.2,SL.SRV.EMPL.MA.ZS,Decent Work and Economic Growth
+8.2,SL.GDP.PCAP.EM.KD,Decent Work and Economic Growth
+8.2,NV.IND.EMPL.KD,Decent Work and Economic Growth
+8.2,NV.SRV.EMPL.KD,Decent Work and Economic Growth
+8.3,SL.ISV.IFRM.ZS,Decent Work and Economic Growth
+8.3,SL.ISV.IFRM.FE.ZS,Decent Work and Economic Growth
+8.3,SL.ISV.IFRM.MA.ZS,Decent Work and Economic Growth
+8.3,IC.BUS.NDNS.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.FE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.FE.NE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.MA.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.MA.NE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.TOTL.NE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.FE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.FE.NE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.MA.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.MA.NE.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.ZS,Decent Work and Economic Growth
+8.5,SL.UEM.1524.NE.ZS,Decent Work and Economic Growth
+8.5,SL.EMP.WORK.FE.ZS,Decent Work and Economic Growth
+8.5,SL.EMP.WORK.MA.ZS,Decent Work and Economic Growth
+8.5,SL.EMP.WORK.ZS,Decent Work and Economic Growth
+8.6,SL.UEM.NEET.FE.ZS,Decent Work and Economic Growth
+8.6,SL.UEM.NEET.MA.ZS,Decent Work and Economic Growth
+8.6,SL.UEM.NEET.ZS,Decent Work and Economic Growth
+8.7,SL.TLF.0714.FE.ZS,Decent Work and Economic Growth
+8.7,SL.TLF.0714.MA.ZS,Decent Work and Economic Growth
+8.7,SL.TLF.0714.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.FE.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.MA.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.OL.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.40.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.PL.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.60.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.SO.ZS,Decent Work and Economic Growth
+8.10,FX.OWN.TOTL.YG.ZS,Decent Work and Economic Growth
+8.10,FB.CBK.BRCH.P5,Decent Work and Economic Growth
+9.1,IS.AIR.GOOD.MT.K1,"Industry, Innovation and Infrastructure"
+9.1,IS.AIR.PSGR,"Industry, Innovation and Infrastructure"
+9.1,IS.RRS.GOOD.MT.K6,"Industry, Innovation and Infrastructure"
+9.1,IS.RRS.PASG.KM,"Industry, Innovation and Infrastructure"
+9.2,NV.IND.MANF.ZS,"Industry, Innovation and Infrastructure"
+9.2,NV.IND.MANF.CD,"Industry, Innovation and Infrastructure"
+9.4,EN.ATM.CO2E.KD.GD,"Industry, Innovation and Infrastructure"
+9.4,EN.ATM.CO2E.PP.GD.KD,"Industry, Innovation and Infrastructure"
+9.4,EN.ATM.CO2E.PP.GD,"Industry, Innovation and Infrastructure"
+9.4,EN.ATM.CO2E.PC,"Industry, Innovation and Infrastructure"
+9.5,GB.XPD.RSDV.GD.ZS,"Industry, Innovation and Infrastructure"
+9.5,SP.POP.SCIE.RD.P6,"Industry, Innovation and Infrastructure"
+9.b,NV.MNF.TECH.ZS.UN,"Industry, Innovation and Infrastructure"
+10.1,SI.SPR.PC40.ZG,Reduced Inequality
+10.1,SI.SPR.PCAP.ZG,Reduced Inequality
+10.b,DT.ODA.ODAT.KD,Reduced Inequality
+10.b,DT.ODA.ODAT.CD,Reduced Inequality
+10.c,SI.RMT.COST.OB.ZS,Reduced Inequality
+10.c,SI.RMT.COST.IB.ZS,Reduced Inequality
+11.1,EN.POP.SLUM.UR.ZS,Sustainable Cities and Communities
+11.1,SP.URB.TOTL,Sustainable Cities and Communities
+11.1,SP.URB.TOTL.IN.ZS,Sustainable Cities and Communities
+11.1,SP.URB.GROW,Sustainable Cities and Communities
+11.6,EN.ATM.PM25.MC.M3,Sustainable Cities and Communities
+11.6,EN.ATM.PM25.MC.ZS,Sustainable Cities and Communities
+11.6,EN.ATM.PM25.MC.T1.ZS,Sustainable Cities and Communities
+11.6,EN.ATM.PM25.MC.T2.ZS,Sustainable Cities and Communities
+11.6,EN.ATM.PM25.MC.T3.ZS,Sustainable Cities and Communities
+12.2,NY.ADJ.SVNX.GN.ZS,Responsible Consumption and Production
+12.2,NY.GDP.COAL.RT.ZS,Responsible Consumption and Production
+12.2,NY.GDP.FRST.RT.ZS,Responsible Consumption and Production
+12.2,NY.GDP.MINR.RT.ZS,Responsible Consumption and Production
+12.2,NY.GDP.NGAS.RT.ZS,Responsible Consumption and Production
+12.2,NY.GDP.PETR.RT.ZS,Responsible Consumption and Production
+12.2,NY.GDP.TOTL.RT.ZS,Responsible Consumption and Production
+13.1,EN.CLC.MDAT.ZS,Climate Action
+13.2,EN.CLC.DRSK.XQ,Climate Action
+14.4,ER.FSH.AQUA.MT,Life Below Water
+14.4,ER.FSH.CAPT.MT,Life Below Water
+14.4,ER.FSH.PROD.MT,Life Below Water
+14.5,ER.MRN.PTMR.ZS,Life Below Water
+15.1,AG.LND.FRST.ZS,Life on Land
+15.1,AG.LND.FRST.K2,Life on Land
+15.1,ER.PTD.TOTL.ZS,Life on Land
+15.1,ER.LND.PTLD.ZS,Life on Land
+15.5,EN.BIR.THRD.NO,Life on Land
+15.5,EN.FSH.THRD.NO,Life on Land
+15.5,EN.MAM.THRD.NO,Life on Land
+15.5,EN.HPT.THRD.NO,Life on Land
+16.1,VC.BTL.DETH,Peace and Justice Strong Institutions
+16.1,VC.IHR.PSRC.P5,Peace and Justice Strong Institutions
+16.1,VC.IHR.PSRC.FE.P5,Peace and Justice Strong Institutions
+16.1,VC.IHR.PSRC.MA.P5,Peace and Justice Strong Institutions
+16.5,IC.FRM.BRIB.ZS,Peace and Justice Strong Institutions
+16.5,IC.TAX.GIFT.ZS,Peace and Justice Strong Institutions
+16.6,GF.XPD.BUDG.ZS,Peace and Justice Strong Institutions
+16.9,SP.REG.BRTH.ZS,Peace and Justice Strong Institutions
+16.9,SP.REG.BRTH.FE.ZS,Peace and Justice Strong Institutions
+16.9,SP.REG.BRTH.MA.ZS,Peace and Justice Strong Institutions
+16.9,SP.REG.BRTH.RU.ZS,Peace and Justice Strong Institutions
+16.9,SP.REG.BRTH.UR.ZS,Peace and Justice Strong Institutions
+17.1,GC.TAX.TOTL.GD.ZS,Partnerships to achieve the Goal
+17.1,GC.TAX.TOTL.CN,Partnerships to achieve the Goal
+17.2,DT.ODA.ALLD.CD,Partnerships to achieve the Goal
+17.2,DT.ODA.ODAT.CD,Partnerships to achieve the Goal
+17.2,DT.ODA.ODAT.CD1,Partnerships to achieve the Goal
+17.3,BX.KLT.DINV.WD.GD.ZS,Partnerships to achieve the Goal
+17.3,BX.KLT.DINV.CD.WD,Partnerships to achieve the Goal
+17.3,BX.TRF.PWKR.DT.GD.ZS,Partnerships to achieve the Goal
+17.4,DT.TDS.DPPF.XP.ZS,Partnerships to achieve the Goal
+17.6,IP.PAT.NRES,Partnerships to achieve the Goal
+17.6,IP.PAT.RESD,Partnerships to achieve the Goal
+17.8,IT.NET.USER.ZS,Partnerships to achieve the Goal
+17.11,NE.EXP.GNFS.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.MRCH.SM.AR.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.MANF.SM.AR.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.TCOM.SM.AR.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.MRCH.WM.AR.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.MANF.WM.AR.ZS,Partnerships to achieve the Goal
+17.12,TM.TAX.TCOM.WM.AR.ZS,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.KD,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.KN,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.CN,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.CD,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.PP.KD,Partnerships to achieve the Goal
+17.13,NY.GDP.MKTP.PP.CD,Partnerships to achieve the Goal
+17.13,NY.GNP.MKTP.KD,Partnerships to achieve the Goal
+17.13,NY.GNP.MKTP.KN,Partnerships to achieve the Goal
+17.13,NY.GNP.MKTP.PP.KD,Partnerships to achieve the Goal
+17.13,NY.GNP.MKTP.PP.CD,Partnerships to achieve the Goal
+17.17,IE.PPI.ENGY.CD,Partnerships to achieve the Goal
+17.17,IE.PPI.TRAN.CD,Partnerships to achieve the Goal
+17.17,IE.PPI.WATR.CD,Partnerships to achieve the Goal
+17.18,IQ.SCI.OVRL,Partnerships to achieve the Goal
+17.19,IQ.SCI.MTHD,Partnerships to achieve the Goal
+17.19,IQ.SCI.PRDC,Partnerships to achieve the Goal
+17.19,IQ.SCI.SRCE,Partnerships to achieve the Goal
