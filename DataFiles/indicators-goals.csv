@@ -1,360 +1,360 @@
-Target,Indicator,Goal
-1.1,SI.POV.DDAY,No Poverty
-1.2,SI.POV.NHAC,No Poverty
-1.2,SI.POV.RUHC,No Poverty
-1.2,SI.POV.URHC,No Poverty
-1.3,per_si_allsi.cov_pop_tot,No Poverty
-1.3,per_si_allsi.cov_q2_tot,No Poverty
-1.3,per_si_allsi.cov_q3_tot,No Poverty
-1.3,per_si_allsi.cov_q4_tot,No Poverty
-1.3,per_si_allsi.cov_q1_tot,No Poverty
-1.3,per_si_allsi.cov_q5_tot,No Poverty
-1.3,per_sa_allsa.cov_pop_tot,No Poverty
-1.3,per_sa_allsa.cov_q2_tot,No Poverty
-1.3,per_sa_allsa.cov_q3_tot,No Poverty
-1.3,per_sa_allsa.cov_q4_tot,No Poverty
-1.3,per_sa_allsa.cov_q1_tot,No Poverty
-1.3,per_sa_allsa.cov_q5_tot,No Poverty
-1.3,per_lm_alllm.cov_pop_tot,No Poverty
-1.3,per_lm_alllm.cov_q2_tot,No Poverty
-1.3,per_lm_alllm.cov_q3_tot,No Poverty
-1.3,per_lm_alllm.cov_q4_tot,No Poverty
-1.3,per_lm_alllm.cov_q1_tot,No Poverty
-1.3,per_lm_alllm.cov_q5_tot,No Poverty
-2.1,SH.STA.BFED.ZS,Zero Hunger
-2.1,SN.ITK.DEFC.ZS,Zero Hunger
-2.2,SH.ANM.ALLW.ZS,Zero Hunger
-2.2,SH.STA.OWGH.ZS,Zero Hunger
-2.2,SH.STA.OWGH.FE.ZS,Zero Hunger
-2.2,SH.STA.OWGH.MA.ZS,Zero Hunger
-2.2,SH.SVR.WAST.ZS,Zero Hunger
-2.2,SH.SVR.WAST.FE.ZS,Zero Hunger
-2.2,SH.SVR.WAST.MA.ZS,Zero Hunger
-2.2,SH.STA.STNT.ZS,Zero Hunger
-2.2,SH.STA.STNT.FE.ZS,Zero Hunger
-2.2,SH.STA.STNT.MA.ZS,Zero Hunger
-2.2,SH.STA.MALN.ZS,Zero Hunger
-2.2,SH.STA.MALN.FE.ZS,Zero Hunger
-2.2,SH.STA.MALN.MA.ZS,Zero Hunger
-2.2,SH.STA.WAST.ZS,Zero Hunger
-2.2,SH.STA.WAST.FE.ZS,Zero Hunger
-2.2,SH.STA.WAST.MA.ZS,Zero Hunger
-2.3,AG.YLD.CREL.KG,Zero Hunger
-3.1,SH.STA.BRTC.ZS,Good Health and Well-being
-3.1,SH.STA.MMRT,Good Health and Well-being
-3.2,SH.DYN.NMRT,Good Health and Well-being
-3.2,SH.DYN.MORT,Good Health and Well-being
-3.2,SH.DYN.MORT.FE,Good Health and Well-being
-3.2,SH.DYN.MORT.MA,Good Health and Well-being
-3.3,SH.IMM.HEPB,Good Health and Well-being
-3.3,SH.HIV.INCD.ZS,Good Health and Well-being
-3.3,SH.MLR.INCD.P3,Good Health and Well-being
-3.3,SH.TBS.INCD,Good Health and Well-being
-3.3,SH.HIV.1524.FE.ZS,Good Health and Well-being
-3.3,SH.HIV.1524.MA.ZS,Good Health and Well-being
-3.3,SH.DYN.AIDS.ZS,Good Health and Well-being
-3.4,SH.DYN.NCOM.ZS,Good Health and Well-being
-3.4,SH.DYN.NCOM.FE.ZS,Good Health and Well-being
-3.4,SH.DYN.NCOM.MA.ZS,Good Health and Well-being
-3.4,SH.STA.SUIC.P5,Good Health and Well-being
-3.4,SH.STA.SUIC.FE.P5,Good Health and Well-being
-3.4,SH.STA.SUIC.MA.P5,Good Health and Well-being
-3.5,SH.ALC.PCAP.LI,Good Health and Well-being
-3.5,SH.ALC.PCAP.FE.LI,Good Health and Well-being
-3.5,SH.ALC.PCAP.MA.LI,Good Health and Well-being
-3.6,SH.STA.TRAF.P5,Good Health and Well-being
-3.7,SP.ADO.TFRT,Good Health and Well-being
-3.7,SH.FPL.SATM.ZS,Good Health and Well-being
-3.8,SH.IMM.IDPT,Good Health and Well-being
-3.8,SH.IMM.MEAS,Good Health and Well-being
-3.8,SH.UHC.OOPC.10.TO,Good Health and Well-being
-3.8,SH.UHC.OOPC.25.TO,Good Health and Well-being
-3.8,SH.UHC.OOPC.10.ZS,Good Health and Well-being
-3.8,SH.UHC.OOPC.25.ZS,Good Health and Well-being
-3.9,SH.STA.AIRP.P5,Good Health and Well-being
-3.9,SH.STA.AIRP.FE.P5,Good Health and Well-being
-3.9,SH.STA.AIRP.MA.P5,Good Health and Well-being
-3.9,SH.STA.POIS.P5,Good Health and Well-being
-3.9,SH.STA.POIS.P5.FE,Good Health and Well-being
-3.9,SH.STA.POIS.P5.MA,Good Health and Well-being
-3.9,SH.STA.WASH.P5,Good Health and Well-being
-3.a,SH.PRV.SMOK.FE,Good Health and Well-being
-3.a,SH.PRV.SMOK.MA,Good Health and Well-being
-3.c,SH.MED.NUMW.P3,Good Health and Well-being
-3.c,SH.MED.PHYS.ZS,Good Health and Well-being
-4.1,SE.SEC.UNER.LO.ZS,Quality Education
-4.1,SE.SEC.UNER.LO.FE.ZS,Quality Education
-4.1,SE.SEC.UNER.LO.MA.ZS,Quality Education
-4.1,SE.PRM.UNER.ZS,Quality Education
-4.1,SE.PRM.UNER.FE.ZS,Quality Education
-4.1,SE.PRM.UNER.MA.ZS,Quality Education
-4.1,SE.PRM.UNER,Quality Education
-4.1,SE.PRM.UNER.FE,Quality Education
-4.1,SE.PRM.UNER.MA,Quality Education
-4.1,SE.COM.DURS,Quality Education
-4.1,SE.SEC.CMPT.LO.FE.ZS,Quality Education
-4.1,SE.SEC.CMPT.LO.MA.ZS,Quality Education
-4.1,SE.SEC.CMPT.LO.ZS,Quality Education
-4.1,SE.PRM.OENR.ZS,Quality Education
-4.1,SE.PRM.OENR.FE.ZS,Quality Education
-4.1,SE.PRM.OENR.MA.ZS,Quality Education
-4.1,SE.PRM.CMPT.FE.ZS,Quality Education
-4.1,SE.PRM.CMPT.MA.ZS,Quality Education
-4.1,SE.PRM.CMPT.ZS,Quality Education
-4.1,SE.PRM.DURS,Quality Education
-4.1,SE.SEC.DURS,Quality Education
-4.2,SE.PRE.DURS,Quality Education
-4.2,SE.PRE.ENRR,Quality Education
-4.2,SE.PRE.ENRR.FE,Quality Education
-4.2,SE.PRE.ENRR.MA,Quality Education
-4.3,SE.TER.ENRR,Quality Education
-4.3,SE.TER.ENRR.FE,Quality Education
-4.3,SE.TER.ENRR.MA,Quality Education
-4.4,SE.TER.CUAT.BA.FE.ZS,Quality Education
-4.4,SE.TER.CUAT.BA.MA.ZS,Quality Education
-4.4,SE.TER.CUAT.BA.ZS,Quality Education
-4.4,SE.SEC.CUAT.LO.FE.ZS,Quality Education
-4.4,SE.SEC.CUAT.LO.MA.ZS,Quality Education
-4.4,SE.SEC.CUAT.LO.ZS,Quality Education
-4.4,SE.SEC.CUAT.PO.FE.ZS,Quality Education
-4.4,SE.SEC.CUAT.PO.MA.ZS,Quality Education
-4.4,SE.SEC.CUAT.PO.ZS,Quality Education
-4.4,SE.PRM.CUAT.MA.ZS,Quality Education
-4.4,SE.TER.CUAT.ST.FE.ZS,Quality Education
-4.4,SE.TER.CUAT.ST.MA.ZS,Quality Education
-4.4,SE.TER.CUAT.ST.ZS,Quality Education
-4.4,SE.SEC.CUAT.UP.FE.ZS,Quality Education
-4.4,SE.SEC.CUAT.UP.MA.ZS,Quality Education
-4.4,SE.SEC.CUAT.UP.ZS,Quality Education
-4.4,SE.TER.CUAT.MS.FE.ZS,Quality Education
-4.4,SE.TER.CUAT.MS.MA.ZS,Quality Education
-4.4,SE.TER.CUAT.MS.ZS,Quality Education
-4.4,SE.TER.CUAT.DO.FE.ZS,Quality Education
-4.4,SE.TER.CUAT.DO.MA.ZS,Quality Education
-4.4,SE.TER.CUAT.DO.ZS,Quality Education
-4.5,SE.ENR.PRIM.FM.ZS,Quality Education
-4.5,SE.ENR.PRSC.FM.ZS,Quality Education
-4.5,SE.ENR.SECO.FM.ZS,Quality Education
-4.5,SE.ENR.TERT.FM.ZS,Quality Education
-4.6,SE.ADT.LITR.FE.ZS,Quality Education
-4.6,SE.ADT.LITR.MA.ZS,Quality Education
-4.6,SE.ADT.LITR.ZS,Quality Education
-4.6,SE.ADT.1524.LT.FM.ZS,Quality Education
-4.6,SE.ADT.1524.LT.FE.ZS,Quality Education
-4.6,SE.ADT.1524.LT.MA.ZS,Quality Education
-4.6,SE.ADT.1524.LT.ZS,Quality Education
-4.c,SE.SEC.ENRL.LO.TC.ZS,Quality Education
-4.c,SE.PRE.ENRL.TC.ZS,Quality Education
-4.c,SE.PRM.ENRL.TC.ZS,Quality Education
-4.c,SE.SEC.ENRL.TC.ZS,Quality Education
-4.c,SE.TER.ENRL.TC.ZS,Quality Education
-4.c,SE.SEC.ENRL.UP.TC.ZS,Quality Education
-4.c,SE.SEC.TCAQ.LO.ZS,Quality Education
-4.c,SE.SEC.TCAQ.LO.FE.ZS,Quality Education
-4.c,SE.SEC.TCAQ.LO.MA.ZS,Quality Education
-4.c,SE.PRE.TCAQ.ZS,Quality Education
-4.c,SE.PRE.TCAQ.FE.ZS,Quality Education
-4.c,SE.PRE.TCAQ.MA.ZS,Quality Education
-4.c,SE.PRM.TCAQ.ZS,Quality Education
-4.c,SE.PRM.TCAQ.FE.ZS,Quality Education
-4.c,SE.PRM.TCAQ.MA.ZS,Quality Education
-4.c,SE.SEC.TCAQ.ZS,Quality Education
-4.c,SE.SEC.TCAQ.FE.ZS,Quality Education
-4.c,SE.SEC.TCAQ.MA.ZS,Quality Education
-4.c,SE.SEC.TCAQ.UP.ZS,Quality Education
-4.c,SE.SEC.TCAQ.UP.FE.ZS,Quality Education
-4.c,SE.SEC.TCAQ.UP.MA.ZS,Quality Education
-5.2,SG.VAW.1549.ZS,Gender Equality
-5.3,SH.STA.FGMS.ZS,Gender Equality
-5.3,SP.M15.2024.FE.ZS,Gender Equality
-5.3,SP.M18.2024.FE.ZS,Gender Equality
-5.4,SL.FAM.WORK.FE.ZS,Gender Equality
-5.4,SL.FAM.WORK.MA.ZS,Gender Equality
-5.4,SG.TIM.UWRK.FE,Gender Equality
-5.4,SG.TIM.UWRK.MA,Gender Equality
-5.5,SL.EMP.SMGT.FE.ZS,Gender Equality
-5.5,IC.FRM.FEMO.ZS,Gender Equality
-5.5,IC.FRM.FEMM.ZS,Gender Equality
-5.5,SG.GEN.PARL.ZS,Gender Equality
-5.6,SG.DMK.SRCR.FN.ZS,Gender Equality
-6.1,SH.H2O.BASW.ZS,Clean Water and Sanitation
-6.1,SH.H2O.BASW.RU.ZS,Clean Water and Sanitation
-6.1,SH.H2O.BASW.UR.ZS,Clean Water and Sanitation
-6.1,SH.H2O.SMDW.ZS,Clean Water and Sanitation
-6.1,SH.H2O.SMDW.RU.ZS,Clean Water and Sanitation
-6.1,SH.H2O.SMDW.UR.ZS,Clean Water and Sanitation
-6.2,SH.STA.ODFC.ZS,Clean Water and Sanitation
-6.2,SH.STA.ODFC.RU.ZS,Clean Water and Sanitation
-6.2,SH.STA.ODFC.UR.ZS,Clean Water and Sanitation
-6.2,SH.STA.BASS.ZS,Clean Water and Sanitation
-6.2,SH.STA.BASS.RU.ZS,Clean Water and Sanitation
-6.2,SH.STA.BASS.UR.ZS,Clean Water and Sanitation
-6.2,SH.STA.SMSS.ZS,Clean Water and Sanitation
-6.2,SH.STA.SMSS.RU.ZS,Clean Water and Sanitation
-6.2,SH.STA.SMSS.UR.ZS,Clean Water and Sanitation
-6.2,SH.STA.HYGN.ZS,Clean Water and Sanitation
-6.2,SH.STA.HYGN.RU.ZS,Clean Water and Sanitation
-6.2,SH.STA.HYGN.UR.ZS,Clean Water and Sanitation
-6.4,ER.H2O.FWAG.ZS,Clean Water and Sanitation
-6.4,ER.H2O.FWDM.ZS,Clean Water and Sanitation
-6.4,ER.H2O.FWIN.ZS,Clean Water and Sanitation
-6.4,ER.H2O.FWTL.ZS,Clean Water and Sanitation
-6.4,ER.H2O.FWTL.K3,Clean Water and Sanitation
-6.4,ER.H2O.FWST.ZS,Clean Water and Sanitation
-6.4,ER.H2O.INTR.PC,Clean Water and Sanitation
-6.4,ER.H2O.INTR.K3,Clean Water and Sanitation
-6.4,ER.GDP.FWTL.M3.KD,Clean Water and Sanitation
-7.1,EG.CFT.ACCS.ZS,Affordable and Clean Energy
-7.1,EG.ELC.ACCS.ZS,Affordable and Clean Energy
-7.1,EG.ELC.ACCS.RU.ZS,Affordable and Clean Energy
-7.1,EG.ELC.ACCS.UR.ZS,Affordable and Clean Energy
-7.2,EG.ELC.RNEW.ZS,Affordable and Clean Energy
-7.2,EG.FEC.RNEW.ZS,Affordable and Clean Energy
-7.3,EG.EGY.PRIM.PP.KD,Affordable and Clean Energy
-8.1,NY.GDP.MKTP.KD.ZG,Decent Work and Economic Growth
-8.1,NY.GDP.PCAP.KD.ZG,Decent Work and Economic Growth
-8.2,NV.AGR.EMPL.KD,Decent Work and Economic Growth
-8.2,SL.AGR.EMPL.ZS,Decent Work and Economic Growth
-8.2,SL.AGR.EMPL.FE.ZS,Decent Work and Economic Growth
-8.2,SL.AGR.EMPL.MA.ZS,Decent Work and Economic Growth
-8.2,SL.IND.EMPL.ZS,Decent Work and Economic Growth
-8.2,SL.IND.EMPL.FE.ZS,Decent Work and Economic Growth
-8.2,SL.IND.EMPL.MA.ZS,Decent Work and Economic Growth
-8.2,SL.SRV.EMPL.ZS,Decent Work and Economic Growth
-8.2,SL.SRV.EMPL.FE.ZS,Decent Work and Economic Growth
-8.2,SL.SRV.EMPL.MA.ZS,Decent Work and Economic Growth
-8.2,SL.GDP.PCAP.EM.KD,Decent Work and Economic Growth
-8.2,NV.IND.EMPL.KD,Decent Work and Economic Growth
-8.2,NV.SRV.EMPL.KD,Decent Work and Economic Growth
-8.3,SL.ISV.IFRM.ZS,Decent Work and Economic Growth
-8.3,SL.ISV.IFRM.FE.ZS,Decent Work and Economic Growth
-8.3,SL.ISV.IFRM.MA.ZS,Decent Work and Economic Growth
-8.3,IC.BUS.NDNS.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.FE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.FE.NE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.MA.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.MA.NE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.TOTL.NE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.FE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.FE.NE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.MA.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.MA.NE.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.ZS,Decent Work and Economic Growth
-8.5,SL.UEM.1524.NE.ZS,Decent Work and Economic Growth
-8.5,SL.EMP.WORK.FE.ZS,Decent Work and Economic Growth
-8.5,SL.EMP.WORK.MA.ZS,Decent Work and Economic Growth
-8.5,SL.EMP.WORK.ZS,Decent Work and Economic Growth
-8.6,SL.UEM.NEET.FE.ZS,Decent Work and Economic Growth
-8.6,SL.UEM.NEET.MA.ZS,Decent Work and Economic Growth
-8.6,SL.UEM.NEET.ZS,Decent Work and Economic Growth
-8.7,SL.TLF.0714.FE.ZS,Decent Work and Economic Growth
-8.7,SL.TLF.0714.MA.ZS,Decent Work and Economic Growth
-8.7,SL.TLF.0714.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.FE.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.MA.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.OL.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.40.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.PL.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.60.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.SO.ZS,Decent Work and Economic Growth
-8.10,FX.OWN.TOTL.YG.ZS,Decent Work and Economic Growth
-8.10,FB.CBK.BRCH.P5,Decent Work and Economic Growth
-9.1,IS.AIR.GOOD.MT.K1,"Industry, Innovation and Infrastructure"
-9.1,IS.AIR.PSGR,"Industry, Innovation and Infrastructure"
-9.1,IS.RRS.GOOD.MT.K6,"Industry, Innovation and Infrastructure"
-9.1,IS.RRS.PASG.KM,"Industry, Innovation and Infrastructure"
-9.2,NV.IND.MANF.ZS,"Industry, Innovation and Infrastructure"
-9.2,NV.IND.MANF.CD,"Industry, Innovation and Infrastructure"
-9.4,EN.ATM.CO2E.KD.GD,"Industry, Innovation and Infrastructure"
-9.4,EN.ATM.CO2E.PP.GD.KD,"Industry, Innovation and Infrastructure"
-9.4,EN.ATM.CO2E.PP.GD,"Industry, Innovation and Infrastructure"
-9.4,EN.ATM.CO2E.PC,"Industry, Innovation and Infrastructure"
-9.5,GB.XPD.RSDV.GD.ZS,"Industry, Innovation and Infrastructure"
-9.5,SP.POP.SCIE.RD.P6,"Industry, Innovation and Infrastructure"
-9.b,NV.MNF.TECH.ZS.UN,"Industry, Innovation and Infrastructure"
-10.1,SI.SPR.PC40.ZG,Reduced Inequality
-10.1,SI.SPR.PCAP.ZG,Reduced Inequality
-10.b,DT.ODA.ODAT.KD,Reduced Inequality
-10.b,DT.ODA.ODAT.CD,Reduced Inequality
-10.c,SI.RMT.COST.OB.ZS,Reduced Inequality
-10.c,SI.RMT.COST.IB.ZS,Reduced Inequality
-11.1,EN.POP.SLUM.UR.ZS,Sustainable Cities and Communities
-11.1,SP.URB.TOTL,Sustainable Cities and Communities
-11.1,SP.URB.TOTL.IN.ZS,Sustainable Cities and Communities
-11.1,SP.URB.GROW,Sustainable Cities and Communities
-11.6,EN.ATM.PM25.MC.M3,Sustainable Cities and Communities
-11.6,EN.ATM.PM25.MC.ZS,Sustainable Cities and Communities
-11.6,EN.ATM.PM25.MC.T1.ZS,Sustainable Cities and Communities
-11.6,EN.ATM.PM25.MC.T2.ZS,Sustainable Cities and Communities
-11.6,EN.ATM.PM25.MC.T3.ZS,Sustainable Cities and Communities
-12.2,NY.ADJ.SVNX.GN.ZS,Responsible Consumption and Production
-12.2,NY.GDP.COAL.RT.ZS,Responsible Consumption and Production
-12.2,NY.GDP.FRST.RT.ZS,Responsible Consumption and Production
-12.2,NY.GDP.MINR.RT.ZS,Responsible Consumption and Production
-12.2,NY.GDP.NGAS.RT.ZS,Responsible Consumption and Production
-12.2,NY.GDP.PETR.RT.ZS,Responsible Consumption and Production
-12.2,NY.GDP.TOTL.RT.ZS,Responsible Consumption and Production
-13.1,EN.CLC.MDAT.ZS,Climate Action
-13.2,EN.CLC.DRSK.XQ,Climate Action
-14.4,ER.FSH.AQUA.MT,Life Below Water
-14.4,ER.FSH.CAPT.MT,Life Below Water
-14.4,ER.FSH.PROD.MT,Life Below Water
-14.5,ER.MRN.PTMR.ZS,Life Below Water
-15.1,AG.LND.FRST.ZS,Life on Land
-15.1,AG.LND.FRST.K2,Life on Land
-15.1,ER.PTD.TOTL.ZS,Life on Land
-15.1,ER.LND.PTLD.ZS,Life on Land
-15.5,EN.BIR.THRD.NO,Life on Land
-15.5,EN.FSH.THRD.NO,Life on Land
-15.5,EN.MAM.THRD.NO,Life on Land
-15.5,EN.HPT.THRD.NO,Life on Land
-16.1,VC.BTL.DETH,Peace and Justice Strong Institutions
-16.1,VC.IHR.PSRC.P5,Peace and Justice Strong Institutions
-16.1,VC.IHR.PSRC.FE.P5,Peace and Justice Strong Institutions
-16.1,VC.IHR.PSRC.MA.P5,Peace and Justice Strong Institutions
-16.5,IC.FRM.BRIB.ZS,Peace and Justice Strong Institutions
-16.5,IC.TAX.GIFT.ZS,Peace and Justice Strong Institutions
-16.6,GF.XPD.BUDG.ZS,Peace and Justice Strong Institutions
-16.9,SP.REG.BRTH.ZS,Peace and Justice Strong Institutions
-16.9,SP.REG.BRTH.FE.ZS,Peace and Justice Strong Institutions
-16.9,SP.REG.BRTH.MA.ZS,Peace and Justice Strong Institutions
-16.9,SP.REG.BRTH.RU.ZS,Peace and Justice Strong Institutions
-16.9,SP.REG.BRTH.UR.ZS,Peace and Justice Strong Institutions
-17.1,GC.TAX.TOTL.GD.ZS,Partnerships to achieve the Goal
-17.1,GC.TAX.TOTL.CN,Partnerships to achieve the Goal
-17.2,DT.ODA.ALLD.CD,Partnerships to achieve the Goal
-17.2,DT.ODA.ODAT.CD,Partnerships to achieve the Goal
-17.2,DT.ODA.ODAT.CD1,Partnerships to achieve the Goal
-17.3,BX.KLT.DINV.WD.GD.ZS,Partnerships to achieve the Goal
-17.3,BX.KLT.DINV.CD.WD,Partnerships to achieve the Goal
-17.3,BX.TRF.PWKR.DT.GD.ZS,Partnerships to achieve the Goal
-17.4,DT.TDS.DPPF.XP.ZS,Partnerships to achieve the Goal
-17.6,IP.PAT.NRES,Partnerships to achieve the Goal
-17.6,IP.PAT.RESD,Partnerships to achieve the Goal
-17.8,IT.NET.USER.ZS,Partnerships to achieve the Goal
-17.11,NE.EXP.GNFS.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.MRCH.SM.AR.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.MANF.SM.AR.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.TCOM.SM.AR.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.MRCH.WM.AR.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.MANF.WM.AR.ZS,Partnerships to achieve the Goal
-17.12,TM.TAX.TCOM.WM.AR.ZS,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.KD,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.KN,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.CN,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.CD,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.PP.KD,Partnerships to achieve the Goal
-17.13,NY.GDP.MKTP.PP.CD,Partnerships to achieve the Goal
-17.13,NY.GNP.MKTP.KD,Partnerships to achieve the Goal
-17.13,NY.GNP.MKTP.KN,Partnerships to achieve the Goal
-17.13,NY.GNP.MKTP.PP.KD,Partnerships to achieve the Goal
-17.13,NY.GNP.MKTP.PP.CD,Partnerships to achieve the Goal
-17.17,IE.PPI.ENGY.CD,Partnerships to achieve the Goal
-17.17,IE.PPI.TRAN.CD,Partnerships to achieve the Goal
-17.17,IE.PPI.WATR.CD,Partnerships to achieve the Goal
-17.18,IQ.SCI.OVRL,Partnerships to achieve the Goal
-17.19,IQ.SCI.MTHD,Partnerships to achieve the Goal
-17.19,IQ.SCI.PRDC,Partnerships to achieve the Goal
-17.19,IQ.SCI.SRCE,Partnerships to achieve the Goal
+Target,Indicator,Goal,Long Description
+1.1,SI.POV.DDAY,No Poverty,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day"
+1.2,SI.POV.NAHC,No Poverty,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+1.2,SI.POV.RUHC,No Poverty,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+1.2,SI.POV.URHC,No Poverty,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+1.3,per_si_allsi.cov_pop_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_si_allsi.cov_q2_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_si_allsi.cov_q3_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_si_allsi.cov_q4_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_si_allsi.cov_q1_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_si_allsi.cov_q5_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_pop_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_q2_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_q3_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_q4_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_q1_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_sa_allsa.cov_q5_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_pop_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_q2_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_q3_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_q4_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_q1_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+1.3,per_lm_alllm.cov_q5_tot,No Poverty,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable"
+2.1,SH.STA.BFED.ZS,Zero Hunger,"By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round"
+2.1,SN.ITK.DEFC.ZS,Zero Hunger,"By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round"
+2.2,SH.ANM.ALLW.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.OWGH.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.OWGH.FE.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.OWGH.MA.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.SVR.WAST.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.SVR.WAST.FE.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.SVR.WAST.MA.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.STNT.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.STNT.FE.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.STNT.MA.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.MALN.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.MALN.FE.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.MALN.MA.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.WAST.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.WAST.FE.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.2,SH.STA.WAST.MA.ZS,Zero Hunger,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons"
+2.3,AG.YLD.CREL.KG,Zero Hunger,"By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment"
+3.1,SH.STA.BRTC.ZS,Good Health and Well-being,"By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births"
+3.1,SH.STA.MMRT,Good Health and Well-being,"By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births"
+3.2,SH.DYN.NMRT,Good Health and Well-being,"By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+3.2,SH.DYN.MORT,Good Health and Well-being,"By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+3.2,SH.DYN.MORT.FE,Good Health and Well-being,"By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+3.2,SH.DYN.MORT.MA,Good Health and Well-being,"By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births"
+3.3,SH.IMM.HEPB,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.HIV.INCD.ZS,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.MLR.INCD.P3,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.TBS.INCD,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.HIV.1524.FE.ZS,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.HIV.1524.MA.ZS,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.3,SH.DYN.AIDS.ZS,Good Health and Well-being,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases"
+3.4,SH.DYN.NCOM.ZS,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.4,SH.DYN.NCOM.FE.ZS,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.4,SH.DYN.NCOM.MA.ZS,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.4,SH.STA.SUIC.P5,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.4,SH.STA.SUIC.FE.P5,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.4,SH.STA.SUIC.MA.P5,Good Health and Well-being,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being"
+3.5,SH.ALC.PCAP.LI,Good Health and Well-being,"Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
+3.5,SH.ALC.PCAP.FE.LI,Good Health and Well-being,"Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
+3.5,SH.ALC.PCAP.MA.LI,Good Health and Well-being,"Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol"
+3.6,SH.STA.TRAF.P5,Good Health and Well-being,"By 2020, halve the number of global deaths and injuries from road traffic accidents"
+3.7,SP.ADO.TFRT,Good Health and Well-being,"By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes"
+3.7,SH.FPL.SATM.ZS,Good Health and Well-being,"By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes"
+3.8,SH.IMM.IDPT,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.8,SH.IMM.MEAS,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.8,SH.UHC.OOPC.10.TO,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.8,SH.UHC.OOPC.25.TO,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.8,SH.UHC.OOPC.10.ZS,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.8,SH.UHC.OOPC.25.ZS,Good Health and Well-being,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all"
+3.9,SH.STA.AIRP.P5,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.AIRP.FE.P5,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.AIRP.MA.P5,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.POIS.P5,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.POIS.P5.FE,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.POIS.P5.MA,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.9,SH.STA.WASH.P5,Good Health and Well-being,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination"
+3.a,SH.PRV.SMOK.FE,Good Health and Well-being,"Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate"
+3.a,SH.PRV.SMOK.MA,Good Health and Well-being,"Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate"
+3.c,SH.MED.NUMW.P3,Good Health and Well-being,"Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States"
+3.c,SH.MED.PHYS.ZS,Good Health and Well-being,"Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States"
+4.1,SE.SEC.UNER.LO.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.UNER.LO.FE.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.UNER.LO.MA.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER.FE.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER.MA.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER.FE,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.UNER.MA,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.COM.DURS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.CMPT.LO.FE.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.CMPT.LO.MA.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.CMPT.LO.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.OENR.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.OENR.FE.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.OENR.MA.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.CMPT.FE.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.CMPT.MA.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.CMPT.ZS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.PRM.DURS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.1,SE.SEC.DURS,Quality Education,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes"
+4.2,SE.PRE.DURS,Quality Education,"By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education"
+4.2,SE.PRE.ENRR,Quality Education,"By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education"
+4.2,SE.PRE.ENRR.FE,Quality Education,"By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education"
+4.2,SE.PRE.ENRR.MA,Quality Education,"By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education"
+4.3,SE.TER.ENRR,Quality Education,"By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university"
+4.3,SE.TER.ENRR.FE,Quality Education,"By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university"
+4.3,SE.TER.ENRR.MA,Quality Education,"By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university"
+4.4,SE.TER.CUAT.BA.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.BA.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.BA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.LO.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.LO.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.LO.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.PO.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.PO.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.PO.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.PRM.CUAT.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.ST.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.ST.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.ST.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.UP.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.UP.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.SEC.CUAT.UP.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.MS.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.MS.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.MS.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.DO.FE.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.DO.MA.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.4,SE.TER.CUAT.DO.ZS,Quality Education,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship"
+4.5,SE.ENR.PRIM.FM.ZS,Quality Education,"By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
+4.5,SE.ENR.PRSC.FM.ZS,Quality Education,"By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
+4.5,SE.ENR.SECO.FM.ZS,Quality Education,"By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
+4.5,SE.ENR.TERT.FM.ZS,Quality Education,"By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations"
+4.6,SE.ADT.LITR.FE.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.LITR.MA.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.LITR.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.1524.LT.FM.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.1524.LT.FE.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.1524.LT.MA.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.6,SE.ADT.1524.LT.ZS,Quality Education,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy"
+4.c,SE.SEC.ENRL.LO.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRE.ENRL.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRM.ENRL.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.ENRL.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.TER.ENRL.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.ENRL.UP.TC.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.LO.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.LO.FE.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.LO.MA.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRE.TCAQ.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRE.TCAQ.FE.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRE.TCAQ.MA.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRM.TCAQ.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRM.TCAQ.FE.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.PRM.TCAQ.MA.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.FE.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.MA.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.UP.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.UP.FE.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+4.c,SE.SEC.TCAQ.UP.MA.ZS,Quality Education,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States"
+5.2,SG.VAW.1549.ZS,Gender Equality,"Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation"
+5.3,SH.STA.FGMS.ZS,Gender Equality,"Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+5.3,SP.M15.2024.FE.ZS,Gender Equality,"Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+5.3,SP.M18.2024.FE.ZS,Gender Equality,"Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation"
+5.4,SL.FAM.WORK.FE.ZS,Gender Equality,"Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+5.4,SL.FAM.WORK.MA.ZS,Gender Equality,"Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+5.4,SG.TIM.UWRK.FE,Gender Equality,"Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+5.4,SG.TIM.UWRK.MA,Gender Equality,"Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate"
+5.5,SL.EMP.SMGT.FE.ZS,Gender Equality,"Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life"
+5.5,IC.FRM.FEMO.ZS,Gender Equality,"Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life"
+5.5,IC.FRM.FEMM.ZS,Gender Equality,"Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life"
+5.5,SG.GEN.PARL.ZS,Gender Equality,"Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life"
+5.6,SG.DMK.SRCR.FN.ZS,Gender Equality,Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences
+6.1,SH.H2O.BASW.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.1,SH.H2O.BASW.RU.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.1,SH.H2O.BASW.UR.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.1,SH.H2O.SMDW.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.1,SH.H2O.SMDW.RU.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.1,SH.H2O.SMDW.UR.ZS,Clean Water and Sanitation,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all"
+6.2,SH.STA.ODFC.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.ODFC.RU.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.ODFC.UR.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.BASS.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.BASS.RU.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.BASS.UR.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.SMSS.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.SMSS.RU.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.SMSS.UR.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.HYGN.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.HYGN.RU.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.2,SH.STA.HYGN.UR.ZS,Clean Water and Sanitation,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations"
+6.4,ER.H2O.FWAG.ZS,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.FWDM.ZS,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.FWIN.ZS,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.FWTL.ZS,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.FWTL.K3,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.FWST.ZS,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.INTR.PC,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.H2O.INTR.K3,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+6.4,ER.GDP.FWTL.M3.KD,Clean Water and Sanitation,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity"
+7.1,EG.CFT.ACCS.ZS,Affordable and Clean Energy,"By 2030, ensure universal access to affordable, reliable and modern energy services"
+7.1,EG.ELC.ACCS.ZS,Affordable and Clean Energy,"By 2030, ensure universal access to affordable, reliable and modern energy services"
+7.1,EG.ELC.ACCS.RU.ZS,Affordable and Clean Energy,"By 2030, ensure universal access to affordable, reliable and modern energy services"
+7.1,EG.ELC.ACCS.UR.ZS,Affordable and Clean Energy,"By 2030, ensure universal access to affordable, reliable and modern energy services"
+7.2,EG.ELC.RNEW.ZS,Affordable and Clean Energy,"By 2030, increase substantially the share of renewable energy in the global energy mix"
+7.2,EG.FEC.RNEW.ZS,Affordable and Clean Energy,"By 2030, increase substantially the share of renewable energy in the global energy mix"
+7.3,EG.EGY.PRIM.PP.KD,Affordable and Clean Energy,"By 2030, double the global rate of improvement in energy efficiency"
+8.1,NY.GDP.MKTP.KD.ZG,Decent Work and Economic Growth,"Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+8.1,NY.GDP.PCAP.KD.ZG,Decent Work and Economic Growth,"Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries"
+8.2,NV.AGR.EMPL.KD,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.AGR.EMPL.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.AGR.EMPL.FE.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.AGR.EMPL.MA.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.IND.EMPL.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.IND.EMPL.FE.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.IND.EMPL.MA.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.SRV.EMPL.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.SRV.EMPL.FE.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.SRV.EMPL.MA.ZS,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,SL.GDP.PCAP.EM.KD,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,NV.IND.EMPL.KD,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.2,NV.SRV.EMPL.KD,Decent Work and Economic Growth,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors"
+8.3,SL.ISV.IFRM.ZS,Decent Work and Economic Growth,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+8.3,SL.ISV.IFRM.FE.ZS,Decent Work and Economic Growth,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+8.3,SL.ISV.IFRM.MA.ZS,Decent Work and Economic Growth,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+8.3,IC.BUS.NDNS.ZS,Decent Work and Economic Growth,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services"
+8.5,SL.UEM.TOTL.FE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.TOTL.FE.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.TOTL.MA.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.TOTL.MA.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.TOTL.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.TOTL.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.FE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.FE.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.MA.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.MA.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.UEM.1524.NE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.EMP.WORK.FE.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.EMP.WORK.MA.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.5,SL.EMP.WORK.ZS,Decent Work and Economic Growth,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value"
+8.6,SL.UEM.NEET.FE.ZS,Decent Work and Economic Growth,"By 2020, substantially reduce the proportion of youth not in employment, education or training"
+8.6,SL.UEM.NEET.MA.ZS,Decent Work and Economic Growth,"By 2020, substantially reduce the proportion of youth not in employment, education or training"
+8.6,SL.UEM.NEET.ZS,Decent Work and Economic Growth,"By 2020, substantially reduce the proportion of youth not in employment, education or training"
+8.7,SL.TLF.0714.FE.ZS,Decent Work and Economic Growth,"Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+8.7,SL.TLF.0714.MA.ZS,Decent Work and Economic Growth,"Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+8.7,SL.TLF.0714.ZS,Decent Work and Economic Growth,"Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms"
+8.10,FX.OWN.TOTL.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.FE.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.MA.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.OL.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.40.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.PL.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.60.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.SO.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FX.OWN.TOTL.YG.ZS,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+8.10,FB.CBK.BRCH.P5,Decent Work and Economic Growth,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all"
+9.1,IS.AIR.GOOD.MT.K1,"Industry, Innovation and Infrastructure","Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+9.1,IS.AIR.PSGR,"Industry, Innovation and Infrastructure","Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+9.1,IS.RRS.GOOD.MT.K6,"Industry, Innovation and Infrastructure","Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+9.1,IS.RRS.PASG.KM,"Industry, Innovation and Infrastructure","Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
+9.2,NV.IND.MANF.ZS,"Industry, Innovation and Infrastructure","Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries"
+9.2,NV.IND.MANF.CD,"Industry, Innovation and Infrastructure","Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries"
+9.4,EN.ATM.CO2E.KD.GD,"Industry, Innovation and Infrastructure","By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+9.4,EN.ATM.CO2E.PP.GD.KD,"Industry, Innovation and Infrastructure","By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+9.4,EN.ATM.CO2E.PP.GD,"Industry, Innovation and Infrastructure","By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+9.4,EN.ATM.CO2E.PC,"Industry, Innovation and Infrastructure","By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities"
+9.5,GB.XPD.RSDV.GD.ZS,"Industry, Innovation and Infrastructure","Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+9.5,SP.POP.SCIE.RD.P6,"Industry, Innovation and Infrastructure","Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending"
+9.b,NV.MNF.TECH.ZS.UN,"Industry, Innovation and Infrastructure","Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities"
+10.1,SI.SPR.PC40.ZG,Reduced Inequality,"By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+10.1,SI.SPR.PCAP.ZG,Reduced Inequality,"By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average"
+10.b,DT.ODA.ODAT.KD,Reduced Inequality,"Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes"
+10.b,DT.ODA.ODAT.CD,Reduced Inequality,"Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes"
+10.c,SI.RMT.COST.OB.ZS,Reduced Inequality,"By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent"
+10.c,SI.RMT.COST.IB.ZS,Reduced Inequality,"By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent"
+11.1,EN.POP.SLUM.UR.ZS,Sustainable Cities and Communities,"By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+11.1,SP.URB.TOTL,Sustainable Cities and Communities,"By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+11.1,SP.URB.TOTL.IN.ZS,Sustainable Cities and Communities,"By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+11.1,SP.URB.GROW,Sustainable Cities and Communities,"By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums"
+11.6,EN.ATM.PM25.MC.M3,Sustainable Cities and Communities,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+11.6,EN.ATM.PM25.MC.ZS,Sustainable Cities and Communities,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+11.6,EN.ATM.PM25.MC.T1.ZS,Sustainable Cities and Communities,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+11.6,EN.ATM.PM25.MC.T2.ZS,Sustainable Cities and Communities,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+11.6,EN.ATM.PM25.MC.T3.ZS,Sustainable Cities and Communities,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management"
+12.2,NY.ADJ.SVNX.GN.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.COAL.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.FRST.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.MINR.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.NGAS.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.PETR.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+12.2,NY.GDP.TOTL.RT.ZS,Responsible Consumption and Production,"By 2030, achieve the sustainable management and efficient use of natural resources"
+13.1,EN.CLC.MDAT.ZS,Climate Action,Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
+13.2,EN.CLC.DRSK.XQ,Climate Action,"Integrate climate change measures into national policies, strategies and planning"
+14.4,ER.FSH.AQUA.MT,Life Below Water,"By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
+14.4,ER.FSH.CAPT.MT,Life Below Water,"By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
+14.4,ER.FSH.PROD.MT,Life Below Water,"By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics"
+14.5,ER.MRN.PTMR.ZS,Life Below Water,"By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information"
+15.1,AG.LND.FRST.ZS,Life on Land,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+15.1,AG.LND.FRST.K2,Life on Land,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+15.1,ER.PTD.TOTL.ZS,Life on Land,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+15.1,ER.LND.PTLD.ZS,Life on Land,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+15.5,EN.BIR.THRD.NO,Life on Land,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+15.5,EN.FSH.THRD.NO,Life on Land,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+15.5,EN.MAM.THRD.NO,Life on Land,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+15.5,EN.HPT.THRD.NO,Life on Land,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+16.1,VC.BTL.DETH,Peace and Justice Strong Institutions,Significantly reduce all forms of violence and related death rates everywhere
+16.1,VC.IHR.PSRC.P5,Peace and Justice Strong Institutions,Significantly reduce all forms of violence and related death rates everywhere
+16.1,VC.IHR.PSRC.FE.P5,Peace and Justice Strong Institutions,Significantly reduce all forms of violence and related death rates everywhere
+16.1,VC.IHR.PSRC.MA.P5,Peace and Justice Strong Institutions,Significantly reduce all forms of violence and related death rates everywhere
+16.5,IC.FRM.BRIB.ZS,Peace and Justice Strong Institutions,Substantially reduce corruption and bribery in all their forms
+16.5,IC.TAX.GIFT.ZS,Peace and Justice Strong Institutions,Substantially reduce corruption and bribery in all their forms
+16.6,GF.XPD.BUDG.ZS,Peace and Justice Strong Institutions,"Develop effective, accountable and transparent institutions at all levels"
+16.9,SP.REG.BRTH.ZS,Peace and Justice Strong Institutions,"By 2030, provide legal identity for all, including birth registration"
+16.9,SP.REG.BRTH.FE.ZS,Peace and Justice Strong Institutions,"By 2030, provide legal identity for all, including birth registration"
+16.9,SP.REG.BRTH.MA.ZS,Peace and Justice Strong Institutions,"By 2030, provide legal identity for all, including birth registration"
+16.9,SP.REG.BRTH.RU.ZS,Peace and Justice Strong Institutions,"By 2030, provide legal identity for all, including birth registration"
+16.9,SP.REG.BRTH.UR.ZS,Peace and Justice Strong Institutions,"By 2030, provide legal identity for all, including birth registration"
+17.1,GC.TAX.TOTL.GD.ZS,Partnerships to achieve the Goal,"Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+17.1,GC.TAX.TOTL.CN,Partnerships to achieve the Goal,"Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection"
+17.2,DT.ODA.ALLD.CD,Partnerships to achieve the Goal,"Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of ODA/GNI to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries"
+17.2,DT.ODA.ODAT.CD,Partnerships to achieve the Goal,"Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of ODA/GNI to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries"
+17.2,DT.ODA.ODAT.CD1,Partnerships to achieve the Goal,"Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of ODA/GNI to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries"
+17.3,BX.KLT.DINV.WD.GD.ZS,Partnerships to achieve the Goal,Mobilize additional financial resources for developing countries from multiple sources
+17.3,BX.KLT.DINV.CD.WD,Partnerships to achieve the Goal,Mobilize additional financial resources for developing countries from multiple sources
+17.3,BX.TRF.PWKR.DT.GD.ZS,Partnerships to achieve the Goal,Mobilize additional financial resources for developing countries from multiple sources
+17.4,DT.TDS.DPPF.XP.ZS,Partnerships to achieve the Goal,"Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress"
+17.6,IP.PAT.NRES,Partnerships to achieve the Goal,"Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism"
+17.6,IP.PAT.RESD,Partnerships to achieve the Goal,"Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism"
+17.8,IT.NET.USER.ZS,Partnerships to achieve the Goal,"Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology"
+17.11,NE.EXP.GNFS.ZS,Partnerships to achieve the Goal,"Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020"
+17.12,TM.TAX.MRCH.SM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.12,TM.TAX.MANF.SM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.12,TM.TAX.TCOM.SM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.12,TM.TAX.MRCH.WM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.12,TM.TAX.MANF.WM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.12,TM.TAX.TCOM.WM.AR.ZS,Partnerships to achieve the Goal,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access"
+17.13,NY.GDP.MKTP.KD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GDP.MKTP.KN,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GDP.MKTP.CN,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GDP.MKTP.CD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GDP.MKTP.PP.KD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GDP.MKTP.PP.CD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GNP.MKTP.KD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GNP.MKTP.KN,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GNP.MKTP.PP.KD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.13,NY.GNP.MKTP.PP.CD,Partnerships to achieve the Goal,"Enhance global macroeconomic stability, including through policy coordination and policy coherence"
+17.17,IE.PPI.ENGY.CD,Partnerships to achieve the Goal,"Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships"
+17.17,IE.PPI.TRAN.CD,Partnerships to achieve the Goal,"Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships"
+17.17,IE.PPI.WATR.CD,Partnerships to achieve the Goal,"Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships"
+17.18,IQ.SCI.OVRL,Partnerships to achieve the Goal,"By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts"
+17.19,IQ.SCI.MTHD,Partnerships to achieve the Goal,"By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries"
+17.19,IQ.SCI.PRDC,Partnerships to achieve the Goal,"By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries"
+17.19,IQ.SCI.SRCE,Partnerships to achieve the Goal,"By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries"
